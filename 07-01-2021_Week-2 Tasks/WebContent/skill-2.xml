@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<Students>
+  <student id="a">
+   <no>121</no>
+   <name>likhi</name>
+   <email>likhi@gmail.com</email>
+   <marks>92</marks>
+   <class>1A</class>
+  </student>
+  <student id="b">
+   <no>152</no>
+   <name>siri</name>
+   <email>siri@gmail.com</email>
+   <marks>95</marks>
+   <class>1B</class>
+  </student>
+  <student id="c">
+   <no>243</no>
+   <name>samhi</name>
+   <email>samhi@gmail.com</email>
+   <marks>97</marks>
+   <class>1A</class>
+  </student>
+  <student id="e">
+   <no>154</no>
+   <name>pavani</name>
+   <email>pavani@gmail.com</email>
+   <marks>96</marks>
+   <class>1B</class>
+  </student>
+  <student id="f">
+   <no>159</no>
+   <name>sadhvi</name>
+   <email>sadhvi@gmail.com</email>
+   <marks>92</marks>
+   <class>1A</class>
+  </student>
+</Students>
